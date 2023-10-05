@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearning.iml" filepath="$PROJECT_DIR$/.idea/JavaLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MethoOverLoading/MethoOverLoading.iml" filepath="$PROJECT_DIR$/MethoOverLoading/MethoOverLoading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MethodChallengeExersise/MethodChallengeExersise.iml" filepath="$PROJECT_DIR$/MethodChallengeExersise/MethodChallengeExersise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/SwitchStatement/SwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JL.iml" filepath="$PROJECT_DIR$/.idea/JL.iml" />
     </modules>
   </component>
 </project>
